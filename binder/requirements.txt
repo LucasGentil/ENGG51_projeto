@@ -3,5 +3,3 @@ scipy==1.5.4
 ipywidgets==7.6.5
 matplotlib==3.1.2
 librosa==0.8.1
-SoundFile
-pyAudioProcessing==1.1.9
